@@ -1,0 +1,68 @@
+{
+    "detail": [
+        {
+            "id": "detail-1",
+            "pid": "1",
+            "billDetailDate": "2020-10-12",
+            "billDetailAmount": "1000.00",
+            "billDetailNote": null,
+            "invoiceNO": "FP2022222"
+        },
+        {
+            "id": "detail-2",
+            "pid": "1",
+            "billDetailDate": "2020-10-12",
+            "billDetailAmount": "692.00",
+            "billDetailNote": null,
+            "invoiceNO": "FP2022333"
+        },
+        {
+            "id": "detail-3",
+            "pid": "2",
+            "billDetailDate": "2020-10-12",
+            "billDetailAmount": "5200.00",
+            "billDetailNote": null,
+            "invoiceNO": "XP2022222"
+        },
+        {
+            "id": "detail-4",
+            "pid": "2",
+            "billDetailDate": "2020-10-12",
+            "billDetailAmount": "1000.00",
+            "billDetailNote": null,
+            "invoiceNO": "FP3022222"
+        },
+        {
+            "id": "detail-5",
+            "pid": "2",
+            "billDetailDate": "2020-10-12",
+            "billDetailAmount": "2000.00",
+            "billDetailNote": null,
+            "invoiceNO": "FP2022222"
+        },
+        {
+            "id": "detail-6",
+            "pid": "2",
+            "billDetailDate": "2020-10-12",
+            "billDetailAmount": "492.00",
+            "billDetailNote": null,
+            "invoiceNO": "FF2022222"
+        },
+        {
+            "id": "detail-7",
+            "pid": "3",
+            "billDetailDate": "2020-10-12",
+            "billDetailAmount": "700.00",
+            "billDetailNote": null,
+            "invoiceNO": "FU2023322"
+        },
+        {
+            "id": "detail-8",
+            "pid": "3",
+            "billDetailDate": "2020-10-12",
+            "billDetailAmount": "292.00",
+            "billDetailNote": null,
+            "invoiceNO": "AV2025422"
+        }
+    ]
+}

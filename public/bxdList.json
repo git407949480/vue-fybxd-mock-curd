@@ -1,0 +1,40 @@
+{
+    "expsense": [
+        {
+            "id": "1",
+            "billCreator": "张薇薇",
+            "dept": "平台技术部",
+            "billCode": "FYBXD202012160842001",
+            "totalSum": "1692.00",
+            "billType": "CL",
+            "billStatus": "Billing",
+            "billDate": "2020-12-16",
+            "note": "",
+            "auditStatus": "UN"            
+        },
+        {
+            "id": "2",
+            "billCreator": "李思思",
+            "dept": "平台技术部",
+            "billCode": "FYBXD202012160842002",
+            "totalSum": "8692.00",
+            "billType": "CL",
+            "billStatus": "Billing",
+            "billDate": "2020-11-16",
+            "note": "",
+            "auditStatus": "UN"
+        },
+        {
+            "id": "3",
+            "billCreator": "赵璐璐",
+            "dept": "平台技术部",
+            "billCode": "FYBXD202012160842003",
+            "totalSum": "992.00",
+            "billType": "JT",
+            "billStatus": "Billing",
+            "billDate": "2020-12-13",
+            "note": "",
+            "auditStatus": "UN"
+        }
+    ]
+}
